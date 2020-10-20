@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: antsyboi.github.io
+Token: 9799f8bae0904fd9f4da4b86fe240f60d4d1e2b98493ce9639896e4cebb0a457
