@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/antsyboi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://antsyboi.github.io
+  * I am antsyboi (https://keybase.io/antsyboi) on keybase.
+  * I have a public key ASCCpL0i5wzffsAxMKU0cAIagN3diGdtdpFwkOIODloLzwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b50f479d7907980e52b3cf4cd2a7da878a78d238c5a92ff9159eddbb63ef68ad0a",
+      "host": "keybase.io",
+      "kid": "012082a4bd22e70cdf7ec03130a53470021a80dddd88676d76917090e20e0e5a0bcf0a",
+      "uid": "b71fef1ccaf814bdfcaf9074c3c47619",
+      "username": "antsyboi"
+    },
+    "merkle_root": {
+      "ctime": 1610072401,
+      "hash": "2620d3d460db53f2c9a2d93ee234cf5ff43f261dc6112a17ca385a9a81f8a8538407edc5c6c0e20e438e75a81f98f44c6cb47fd45f92dffb7936048696159383",
+      "hash_meta": "b5255ac0326c82bbbf588ac2bdc1c8164ab185fbd8ad3192e82a20c7bcb6ae01",
+      "seqno": 18634774
+    },
+    "service": {
+      "entropy": "Mco/ACtbLzIADQimbH4+wBjL",
+      "hostname": "antsyboi.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610072444,
+  "expire_in": 504576000,
+  "prev": "83165520fa3531504642f054d016f39936db90c1aebc82afabbda6734562ab5f",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggqS9IucM337AMTClNHACGoDd3YhnbXaRcJDiDg5aC88Kp3BheWxvYWTESpcCDcQggxZVIPo1MVBGQvBU0BbzmTbbkMGuvIKvq72mc0Viq1/EIJ5J/RQgkqz8jewG5yrkNmk4rFpKGqiS5MtmUidukjoSAgHCo3NpZ8RAg5nhgGJVny/m698SKEWV4b8pC7FRhXLVGnuU2mwYwW+qRK/eMALqZDTmz3xhs2eKdJs5Dgli+H7Qyk/pD8vIAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBG3xY+ywA+M31ICzFNgwYQWL9dr2h3HBxv4iBz2XxM2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antsyboi
+
+==================================================================
