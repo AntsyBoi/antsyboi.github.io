@@ -1,1 +1,1 @@
-s1 = 1; function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }; s2 = async function(amount){while(s1=1){await sleep(200); Game.cookies = Game.cookies+amount}};
+killswitch = 0; function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }; s2 = async function(amount, time){while(true = 1){ if(killswitch = 1){break;}await sleep(time); Game.cookies = Game.cookies+amount}};
