@@ -13,6 +13,7 @@ s2 = async function(amount, time)
       killswitch = 0
       break;
     };
-    await sleep(time); Game.cookies = Game.cookies+amount
+    await sleep(time);
+    Game.cookies = Game.cookies+amount
   }
 };
