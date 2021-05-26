@@ -10,7 +10,6 @@ s2 = async function(amount, time)
   {
     if(killswitch == 1)
     {
-      killswitch = 0
       break;
     };
     await sleep(time);
